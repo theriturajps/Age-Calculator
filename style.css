@@ -1,0 +1,76 @@
+  .riturajps_ageCalc_container {
+    background: #ffffff;
+    padding: 12px;
+    max-width: 400px;
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 4px;
+    box-shadow: 5px 5px 0px 0px #056aff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+
+  .riturajps_ageCalc_container h2 {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .riturajps_ageCalc_inputbox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    background: #202e38;
+  }
+
+  .riturajps_ageCalc_inputbox input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    padding: 12px;
+    font-size: 18px;
+    color: #ffffff;
+    cursor: pointer;
+  }
+
+  .riturajps_ageCalc_inputbox img {
+    height: 18px;
+    width: 18px;
+    background: limegreen;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding: 15px;
+    cursor: pointer;
+  }
+
+  img {
+    height: 35px;
+    width: 35px;
+  }
+
+  .riturajps_ageCalc_outputBox {
+    margin: 15px;
+  }
+
+  .riturajps_ageCalc_outputBox div {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding-left: 10%;
+    margin-bottom: 5px;
+    font-weight: 500;
+  }
+
+  .riturajps_ageCalc_outputBox table {
+    width: 100%;
+    padding: 15px 0;
+  }
+
+  td {
+    padding: 5px;
+    border-bottom: 1px solid #ddd;
+  }
