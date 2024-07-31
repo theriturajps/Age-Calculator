@@ -39,7 +39,7 @@
 
   .riturajps_ageCalc_inputbox img {
     height: 18px;
-    width: 18px;
+    width: 50px;
     background: limegreen;
     border-top-right-radius: 12px;
     border-bottom-right-radius: 12px;
@@ -65,10 +65,10 @@
     font-weight: 500;
   }
 
-  .riturajps_ageCalc_outputBox table {
+.riturajps_ageCalc_outputBox table {
     width: 100%;
-    padding: 15px 0;
-  }
+    /* padding: 15px 0; */
+}
 
   td {
     padding: 5px;
